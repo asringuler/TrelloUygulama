@@ -1,0 +1,17 @@
+C:\Users\Shiroöğ\source\repos\Trello\Trello\bin\Debug\Trello.exe.config
+C:\Users\Shiroöğ\source\repos\Trello\Trello\bin\Debug\Trello.exe
+C:\Users\Shiroöğ\source\repos\Trello\Trello\bin\Debug\Trello.pdb
+C:\Users\Shiroöğ\source\repos\Trello\Trello\bin\Debug\MetroFramework.dll
+C:\Users\Shiroöğ\source\repos\Trello\Trello\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Shiroöğ\source\repos\Trello\Trello\obj\Debug\Trello.csprojAssemblyReference.cache
+C:\Users\Shiroöğ\source\repos\Trello\Trello\obj\Debug\Trello.Properties.Resources.resources
+C:\Users\Shiroöğ\source\repos\Trello\Trello\obj\Debug\Trello.csproj.GenerateResource.cache
+C:\Users\Shiroöğ\source\repos\Trello\Trello\obj\Debug\Trello.csproj.CoreCompileInputs.cache
+C:\Users\Shiroöğ\source\repos\Trello\Trello\obj\Debug\Trello.csproj.CopyComplete
+C:\Users\Shiroöğ\source\repos\Trello\Trello\obj\Debug\Trello.exe
+C:\Users\Shiroöğ\source\repos\Trello\Trello\obj\Debug\Trello.pdb
+C:\Users\Shiroöğ\source\repos\Trello\Trello\obj\Debug\Trello.Login.resources
+C:\Users\Shiroöğ\source\repos\Trello\Trello\obj\Debug\Trello.Projeler.resources
+C:\Users\Shiroöğ\source\repos\Trello\Trello\obj\Debug\Trello.GorevYoneticisi.resources
+C:\Users\Shiroöğ\source\repos\Trello\Trello\obj\Debug\Trello.ToDo.resources
+C:\Users\Shiroöğ\source\repos\Trello\Trello\bin\Debug\Control.Draggable.dll
